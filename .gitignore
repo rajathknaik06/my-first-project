@@ -1,0 +1,6 @@
+# Temporary files
+temp.txt
+*.tmp
+
+# Local configuration
+.env
